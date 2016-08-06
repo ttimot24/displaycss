@@ -1,0 +1,14 @@
+/**
+* DisplayCSS - The css structure.
+* @author Timot Tarjani
+* @year 2016
+*
+*/
+
+@import url(displaycss-fonts.css);
+@import url(displaycss-config.css);
+@import url(displaycss-default.css);
+@import url(displaycss-480.css);
+@import url(displaycss-768.css);
+@import url(displaycss-992.css);
+@import url(displaycss-1200.css);

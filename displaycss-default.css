@@ -1,0 +1,13 @@
+html{
+	background-color: rgb(24,24,24) ;
+	color:white;
+	font-family: var(--default_font);
+}
+
+body{
+	font-family: var(--default_font);
+}
+
+.primary{
+	color: var(--color_primary);
+}
